@@ -1,0 +1,6 @@
+__pycache__
+.venv
+csv
+excel
+.env
+v1.py
